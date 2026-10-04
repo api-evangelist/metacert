@@ -39,7 +39,6 @@ apis:
   - name: Metacert
     description: "Metacert Link Flagging"
     humanURL: https://metacert.com/
-    baseURL: https://metacert.com/
     tags:
       - Anti Malware
     properties:
